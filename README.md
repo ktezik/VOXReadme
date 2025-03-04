@@ -25,6 +25,7 @@
 - iOS 15.0+
 - Xcode 14+
 - Swift 5.7+
+---
 #### Swift Package Manager
 1. В Xcode: File > Swift Packages > Add Package Dependency
 2. Вставьте URL репозитория: `ssh://git@192.168.1.70:2222/Smorodina/vox-sdk-ios.git`
