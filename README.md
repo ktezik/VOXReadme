@@ -218,7 +218,7 @@ Task { @MainActor in
         try await VOXAds.createVASTVideo(with: model)
     } catch {
         // Обработка ошибки
-        print("Ошибка VOXSDK: \(error)")
+        print("Ошибка: \(error)")
     }
 }
 ```
